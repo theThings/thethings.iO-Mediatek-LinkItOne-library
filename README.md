@@ -40,8 +40,6 @@ while ( status != LWIFI_STATUS_CONNECTED ) {
 
 
 <div class="highlight highlight-source-c++"><pre><span class="pl-en">thethingsiOWiFiLinkItOne();
-
-
 thethingsiOWiFiLinkItOne (String token);
 </pre></div>
 
