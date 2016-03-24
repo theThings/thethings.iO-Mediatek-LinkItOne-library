@@ -1,1 +1,1 @@
-Examples of usage of the Mediatek LinkIt One with thethings.iO using HTTP
+Examples of usage of the Mediatek LinkIt One with thethings.iO using HTTP.
